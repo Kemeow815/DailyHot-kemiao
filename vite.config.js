@@ -51,7 +51,7 @@ export default defineConfig(({ mode }) => {
           ],
         },
         manifest: {
-          name: "今日热榜",
+          name: "克喵の克喵の今日热榜",
           short_name: "DailyHot",
           description: "汇聚全网热点，热门尽览无余",
           display: "standalone",
